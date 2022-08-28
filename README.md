@@ -1,4 +1,3 @@
-
 # Create React App Template
 
 A no-frills template from which to create React applications with
@@ -7,6 +6,8 @@ A no-frills template from which to create React applications with
 ```sh
 npx create-react-app my-app --template @appacademy/simple --use-npm
 ```
+
+## create .env w/ api key
 
 ## Available Scripts
 
